@@ -12,7 +12,6 @@ ICC Women's T20 World Cup - Cricket Analysis [Python | Web scrapping | Pandas | 
 
 # Visuals
 
-The visualizations created for the case study can be accessed through the following Tableau Public link:
+The visualizations created can be accessed through the following link:
 
-[Case Study Visuals]([https://public.tableau.com/app/profile/shubham200137/viz/CaseStudy-CyclisticBikeSharing_16882185009110/CyclisticCaseStudy](https://docs.google.com/presentation/d/1SlifE_rLSzyA_UW2b-jpTkmrRzFlIkPr/edit?usp=sharing&ouid=101647169591373102805&rtpof=true&sd=true)https://docs.google.com/presentation/d/1SlifE_rLSzyA_UW2b-jpTkmrRzFlIkPr/edit?usp=sharing&ouid=101647169591373102805&rtpof=true&sd=true)
-
+[Case Study Visuals](https://docs.google.com/presentation/d/1SlifE_rLSzyA_UW2b-jpTkmrRzFlIkPr/edit?usp=sharing&ouid=101647169591373102805&rtpof=true&sd=true)
