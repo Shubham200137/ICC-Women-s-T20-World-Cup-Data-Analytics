@@ -10,7 +10,7 @@ ICC Women's T20 World Cup - Cricket Analysis [Python | Web scrapping | Pandas | 
   ultimately choose the top 11 players to play in the match. Selected team using the Power BI dashboard has 90% of chances to win the game.
 
 
-  Visuals
+# Visuals
 
 The visualizations created for the case study can be accessed through the following Tableau Public link:
 
