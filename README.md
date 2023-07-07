@@ -14,4 +14,4 @@ ICC Women's T20 World Cup - Cricket Analysis [Python | Web scrapping | Pandas | 
 
 The visualizations created can be accessed through the following link:
 
-[Case Study Visuals](https://docs.google.com/presentation/d/1SlifE_rLSzyA_UW2b-jpTkmrRzFlIkPr/edit?usp=sharing&ouid=101647169591373102805&rtpof=true&sd=true)
+[Visuals](https://docs.google.com/presentation/d/1SlifE_rLSzyA_UW2b-jpTkmrRzFlIkPr/edit?usp=sharing&ouid=101647169591373102805&rtpof=true&sd=true)
