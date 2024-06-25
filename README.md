@@ -11,9 +11,6 @@
 
 ---
 
-Feel free to make any further adjustments!
-
-
 # Visuals
 
 The visualizations created can be accessed through the following link:
