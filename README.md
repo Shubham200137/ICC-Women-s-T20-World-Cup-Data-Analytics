@@ -1,13 +1,17 @@
-# ICC-Women-s-T20-World-Cup-Data-Analytics
 
+## ICC Women's T20 World Cup - Cricket Analysis
+**[Python | Web Scraping | Pandas | Power BI]**
 
+- Created a Power BI report to identify the top 11 players for a T20 cricket team.
+- Scraped data from ESPNcricinfo using Brightdata website tool.
+- Cleaned and transformed the data with Pandas.
+- Evaluated various player performance metrics.
+- Used the resulting Power BI dashboard to select players for various categories: openers, middle order/anchors, finishers, all-rounders, and specialist fast bowlers.
+- The selected team from the Power BI dashboard has a 90% chance of winning the game.
 
-ICC Women's T20 World Cup - Cricket Analysis [Python | Web scrapping | Pandas | Power BI]
+---
 
--Created a Power BI report to identify top 11 players for a T20 cricket team by scraping data from espncricinfo with a Brightdata website tool, cleaning and transforming the     data with pandas, and evaluating various player performance metrics.
-
--Used the resulting Power BI dashboard to select players for various categories (openers, middle order/anchors, finishers, all-rounders, specialist fast bowlers) and 
-  ultimately choose the top 11 players to play in the match. Selected team using the Power BI dashboard has 90% of chances to win the game.
+Feel free to make any further adjustments!
 
 
 # Visuals
