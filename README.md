@@ -1,6 +1,6 @@
 
 ## ICC Women's T20 World Cup - Cricket Analysis
-**[Python | Web Scraping | Pandas | Power BI]**
+## Overview
 
 - Created a Power BI report to identify the top 11 players for a T20 cricket team.
 - Scraped data from ESPNcricinfo using beautifulsoup4.
